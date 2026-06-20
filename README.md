@@ -14,12 +14,10 @@ A native **Kotlin + Jetpack Compose (Material 3)** client for the Hermes agent g
 
 *Built with MVVM + Hilt + OkHttp (REST + WebSocket JSON-RPC).*
 
-### 🌱 Also working on
-- **[okta-mcp-server](https://github.com/adebnar/okta-mcp-server)** — self-hosted MCP server for Okta identity.
-- Automation tooling across Okta & Google Workspace.
-
 ### 🧰 Tech
 `Kotlin` · `Jetpack Compose` · `Android` · `Python` · `MCP` · `Okta` · `Google Workspace`
 
 ### 💖 Sponsoring my work
-I'm raising support via **[GitHub Sponsors](https://github.com/sponsors/adebnar)**. Sponsorship funds the time I spend building **Hermes for Android** and my other tools in the open — shipping features, writing docs, and keeping them free. If my work helps you, I'd be grateful for your support. 🙏
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20the%20project-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/andrew65386)
+
+Sponsorship funds the time I spend building **Hermes for Android** and my other tools in the open — shipping features, writing docs, and keeping them free. If my work helps you, I'd be grateful for your support. 🙏
